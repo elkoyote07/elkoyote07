@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/cd6dc5f8-d44e-4142-8b25-9053f5c04243)
+<img height="300px" src="https://github.com/user-attachments/assets/cd6dc5f8-d44e-4142-8b25-9053f5c04243"/>
 
 ### Languages
 
