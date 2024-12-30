@@ -31,4 +31,4 @@
 [![](https://img.shields.io/badge/-🎃%20Input%20Mapper%20DoS-000)](https://github.com/elkoyote07/InputMapperDoS)
 [![](https://img.shields.io/badge/-🔐%20PyCrypt-000)](https://github.com/elkoyote07/PyCrypt)
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkoyote07&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=fff&icon_color=ff0000&bg_color=0,4a0000,8b0000,ff0000,8b0000&theme=dark" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkoyote07&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=fff&icon_color=ff0000&bg_color=0,4a0000,8b0000,ff0000,8b0000&theme=dark" />
