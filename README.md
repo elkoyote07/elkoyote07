@@ -21,6 +21,7 @@
 [![](https://img.shields.io/badge/-🤺%20Architecture%20Kata-000)](https://github.com/elkoyote07/kata-arch)
 [![](https://img.shields.io/badge/-✉%20Kafka%20&%20Flink%20Setup-000)](https://github.com/elkoyote07/KafkaFlinkPlayground)
 [![](https://img.shields.io/badge/-🦀%20Guessing%20Game-000)](https://github.com/elkoyote07/guessing-game)
+[![](https://img.shields.io/badge/-🦙%20wAInsdow-000)](https://github.com/elkoyote07/wAInsdow)
 
 ### Cybersecurity Projects
 
